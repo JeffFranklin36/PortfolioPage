@@ -8,6 +8,7 @@ h1 {
 
 body {
  background: #264653;
+ text-align: center;
 }
 
 span {
@@ -17,6 +18,11 @@ span {
 nav {
  background-color: #2a9d8f;
  padding: 10px;
+ border: 5px solid #F4A261;
+ border-radius: 5px;
+ color: #e9c46a;
+ padding: 20px;
+ margin: 50px;
 }
 
 nav ul {
@@ -36,7 +42,7 @@ nav a {
 }
 
 nav a:hover {
- color: darkred;
+ color: #E76F51;
 }
 
 main .projects {
@@ -46,6 +52,6 @@ main .projects {
  border-radius: 5px;
  color: #e9c46a;
  font-size: 2em;
- padding: 20px;
+ padding: 100px;
  margin: 10px;
 }
