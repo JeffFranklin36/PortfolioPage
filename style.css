@@ -1,0 +1,51 @@
+header img {
+ height: 200;
+}
+
+h1 {
+ color: #e9c46a
+}
+
+body {
+ background: #264653;
+}
+
+span {
+ display: inline-block;
+}
+
+nav {
+ background-color: #2a9d8f;
+ padding: 10px;
+}
+
+nav ul {
+ list-style-type: none;
+ text-align: center;
+}
+
+nav li {
+ display: inline;
+}
+
+nav a {
+ text-decoration: none;
+ font-size: 1.6em;
+ color: #e9c46a;
+ margin-right: 25px;
+}
+
+nav a:hover {
+ color: darkred;
+}
+
+main .projects {
+ display: inline-block;
+ background-color: #2A9D8F;
+ border: 5px solid #F4A261;
+ border-radius: 5px;
+ color: #e9c46a;
+ font-size: 2em;
+ padding: 20px;
+ margin: 10px;
+}
